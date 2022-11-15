@@ -7,3 +7,5 @@ Norway
 Guatemala
 
 Feature countries :
+
+Bolivia
