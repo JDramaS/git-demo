@@ -5,7 +5,3 @@ France
 Norway
 
 Guatemala
-
-Feature countries :
-
-Bolivia
